@@ -1,0 +1,3 @@
+nama = "taufiq"
+
+print (nama)

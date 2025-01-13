@@ -37,3 +37,6 @@ jobs:
 
       - name: Cetak tanggal
         run : date
+
+      - name: File Python
+        run: python nama.py
